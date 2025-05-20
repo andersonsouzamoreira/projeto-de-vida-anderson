@@ -10,6 +10,6 @@ for (let j=0; j<botoes.length; j++) {
 }
 
        botoes[i].classList.add("ativo");
-       botoes[i].classList.add("ativo");
+       textos[i].classList.add("ativo");
     };
 }
